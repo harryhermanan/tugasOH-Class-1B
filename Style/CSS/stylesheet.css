@@ -1,0 +1,120 @@
+.pd-t-10 {
+    padding-top: 10px;
+}
+
+.pd-t-30 {
+    padding-top: 30px;
+}
+
+li {
+    color: white;
+    list-style: none;
+    float: right;
+    padding: 33px 20px;
+}
+
+.header {
+    background-color: #f8fafc;
+    padding-top: 15px;
+    height: 90px;
+}
+
+.header a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-right: 30px;
+}
+
+.header a:hover {
+    color: black;
+}
+
+.pd-r-100 {
+    padding-right: 100px;
+}
+
+.pd-r-5 {
+    padding-right: 5px;
+}
+
+.header-logo {
+    float: right;
+    padding-top: 5px;
+}
+
+.container-one {
+    background-color: #f8fafc;
+    padding-top: 100px;
+}
+
+.container-one h1 {
+    padding-left: 33%;
+}
+
+.container-one h2 {
+    padding-left: 33%;
+    font-weight: normal;
+}
+
+.container-one h3 {
+    padding-left: 33%;
+    padding-bottom: 100px;
+    font-weight: normal;
+}
+
+.container-two {
+    text-align: center;
+    
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.container-two h2 {
+    padding-bottom: 50px;
+}
+
+.container-two p {
+    font-size: 18px;
+}
+
+.container-three {
+    background-color: #f8fafc;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.pd-b-20 {
+    padding-bottom: 20px;
+}
+
+.container-three p {
+    font-size: 24px;
+}
+
+.container-three h2 {
+    padding-top: 55px;
+}
+
+.footer {
+    height: 90px;
+    background-color: black
+}
+
+.footer-logo {
+    color: white;
+    text-align: left;
+    padding-top: 35px;
+    padding-left: 25%;
+}
+
+.footer-sosmed {
+    text-align: right;
+    padding-top: 35px;
+    padding-right: 100px;
+}
+
+.footer-sosmed a {
+    margin: 25px;
+}
