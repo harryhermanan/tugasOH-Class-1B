@@ -6,6 +6,19 @@
     padding-top: 30px;
 }
 
+.menu-icon {
+    color: black;
+    float: right;
+    font-size: 30px;
+    padding: 15px 0;
+    display: none;
+  }
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
 li {
     color: white;
     list-style: none;
@@ -13,9 +26,16 @@ li {
     padding: 33px 20px;
 }
 
+.dark {
+    padding-top: 27px;
+}
+
+.dark2 {
+    display: none;
+}
+
 .header {
     background-color: #f8fafc;
-    padding-top: 15px;
     height: 90px;
 }
 
@@ -37,64 +57,45 @@ li {
     padding-right: 5px;
 }
 
-.header-logo {
-    float: right;
-    padding-top: 5px;
-}
-
-.container-one {
-    background-color: #f8fafc;
-    padding-top: 100px;
-}
-
-.container-one h1 {
-    padding-left: 33%;
-}
-
-.container-one h2 {
-    padding-left: 33%;
-    font-weight: normal;
-}
-
-.container-one h3 {
-    padding-left: 33%;
-    padding-bottom: 100px;
-    font-weight: normal;
-}
-
-.container-two {
-    text-align: center;
-    
-    padding-bottom: 50px;
+.container-fluid {
     padding-top: 50px;
 }
 
-.container-two h2 {
-    padding-bottom: 50px;
+.container-fluid h2 {
+    font-weight: normal;
 }
 
-.container-two p {
-    font-size: 18px;
+.container-fluid h3 {
+    font-weight: normal;
 }
 
-.container-three {
-    background-color: #f8fafc;
-    padding-top: 100px;
-    padding-bottom: 50px;
-    padding-left: 20%;
-    padding-right: 20%;
+.container-fluid p {
+    text-align: center;
+}
+
+.ed-fluid {
+    text-align: center;
+}
+
+.ed-fluid h2 {
+    padding-bottom: 25px;
+}
+
+.ed-fluid h3 {
+    padding-top: 10px;
+}
+
+.center {
+    width: 100%;
+    text-align: center;
+  }
+
+.contact p {
+    text-align: left;
 }
 
 .pd-b-20 {
     padding-bottom: 20px;
-}
-
-.container-three p {
-    font-size: 24px;
-}
-
-.container-three h2 {
-    padding-top: 55px;
 }
 
 .footer {
